@@ -14,4 +14,6 @@ public class AppTest {
 	public void shouldAnswerWithTrue() {
 		assertTrue(true);
 	}
+	
+	//Change from the clone version....
 }
